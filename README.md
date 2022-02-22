@@ -14,3 +14,8 @@ Link dibawah ini merupakan acuan untuk membuat model rocket dari dasar.
 - [Flight Simulation - Landing Model Rockets Ep. 1](https://www.youtube.com/watch?v=LIu2MedOHLc)
 - [General Thrust Equation](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/thrsteq.html)
 - [Membuat roket gula . Ujicoba motor roket gula](https://www.youtube.com/watch?v=aAMxdWcpMvk)
+
+# Link Tutorial
+
+- [Membaca Akselerasi dari MPU 6050](https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/)
+- [Membaca Ketinggan dari BMP 180](https://randomnerdtutorials.com/guide-for-bmp180-barometric-sensor-with-arduino/)
